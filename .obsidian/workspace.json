@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "4a131cab2b2e6c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a08be4f6294cf8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "231df93fe559a4ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/1.mysql数据库基本使用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.mysql数据库基本使用"
+            }
+          },
+          {
+            "id": "0d53d56ef2935d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/2.mysql上云.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.mysql上云"
+            }
+          },
+          {
+            "id": "3d1f57fc77b2f3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据库/2.mysql上云.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.mysql上云"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5b7f055837063e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5099922980a6ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46b6113a612009a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9edc380a9fa899e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "97a73bd0b83ef866",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbb561e7556980d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb1ab5496e01cdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe1293cdab3fb18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据库/2.mysql上云.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2.mysql上云 的反向链接列表"
+            }
+          },
+          {
+            "id": "bb113e127a21f5d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据库/2.mysql上云.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2.mysql上云 的出链列表"
+            }
+          },
+          {
+            "id": "65a089b27c181158",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "53e174bacdfb84f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据库/2.mysql上云.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2.mysql上云 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3d1f57fc77b2f3f4",
+  "lastOpenFiles": [
+    "数据库/3. 使用crontab进行定时备份.md",
+    "数据库/2.mysql上云.md",
+    "数据库/1.mysql数据库基本使用.md",
+    "云",
+    "数据库"
+  ]
+}
